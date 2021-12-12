@@ -1,0 +1,64 @@
+body{
+    text-align: center;
+}
+
+h1, h2, h3{
+    color: #2B60DE;
+}
+
+a{
+    text-decoration: none;
+}
+
+.nav-bar{
+    width: 308px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-bar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.nav-bar li {
+    float: left;
+}
+
+.nav-bar li a {
+    display: block;
+    padding: 12px 14px;
+    background-color: #2B60DE;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+}
+
+.nav-bar li a:hover{
+    background-color: #0039bd;
+}
+
+#urun-listesi ul{
+    list-style-type: none;
+}
+
+#urunler ol{
+    list-style-type: none;
+}
+
+#urunler p{
+    font-weight: bold;
+}
+
+#urunler img{
+    height: 300px;
+    width: auto;
+}
+
+#urunler img:hover{
+    box-shadow: 2px 2px #2B60DE;
+}
+
