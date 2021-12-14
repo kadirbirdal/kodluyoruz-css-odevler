@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+}
+
+.logo{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.container{
+    background-color: rgb(230, 230, 230);
+    height: 200px;
+    width: auto;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.clear{
+    clear: both;
+}
+.container h1{
+    font-family: 'Noto Sans Display', sans-serif;
+    font-size: 15px;
+}
+
+.container input{
+    width: 300px;
+}
+
+.container input, button{
+    margin-top: 5px;
+}
+
+.box-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    width: 700px;
+    background-color: #7EE5DA;
+    padding: 10px;
+    margin-top: 53px;
+}
+.box-1 li{
+    list-style-type: none;
+}
+
+.box-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    background-color: #70CCC2;
+    height: 60px;
+    width: 300px;
+    padding: 10px;
+    position: relative;
+    left: 725px;
+    bottom: 80px;
+}
+
+.box-2 li{
+    list-style-type: none;
+}
+
+.box-2 ul li:first-child{
+    font-weight: bold;
+}
+
+.box-3{
+    text-align: center;
+    background-color: #62B3AA;
+    height: 60px;
+    width: 850px;
+    padding: 10px;
+    position: relative;
+    left: 1050px;
+    bottom: 160px;
+}
+
+.footer{
+    text-align: center;
+    margin-top: 20px;
+}

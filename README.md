@@ -4,3 +4,5 @@
 * Css text şekillendirme
 * Css menü
 * Hover kullanımı ve gölgelendirme
+
+# Ödev 2
